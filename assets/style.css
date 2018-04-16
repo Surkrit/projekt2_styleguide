@@ -36,6 +36,14 @@ p {
 }
 
 footer {
- position: absolute;
- bottom: 0;
+  position: 0;
+}
+
+.flex-direction {
+  display: flex;
+  flex: 1;
+}
+
+img {
+  max-width: 150vh;
 }
